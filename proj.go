@@ -3,5 +3,5 @@ package proj
 import "fmt"
 
 func PrintHello() {
-	fmt.Println("Hello go project!")
+	fmt.Println("hello go project")
 }

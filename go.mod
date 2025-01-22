@@ -1,3 +1,3 @@
-module github.com/asampleorgfortestinggithubintegrations/go-project
+module github.com/asampleorgfortestingintegrations/go-project
 
 go 1.23.5
